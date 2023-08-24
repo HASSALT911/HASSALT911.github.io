@@ -4,7 +4,7 @@
 <p>-------------------------------------------------------------------------------------------------</p>
 <body>I code this by myself with this software called GitHub</body>
 <p>A lot of ya'll know what Github is so I shouldn't explain it</p>
-<h1>YOUTUBE</h1> <html>https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqazJ2MWQzRnlrWnFXVlJ2VnROWGY5SVotNEVPQXxBQ3Jtc0traXdHQ09ZbGpIZVZqakJMWXhXZXZFSGtFbG1hQXkxTnJaSENlQnZyMXhUb09Hay1jTk5VcThzVnF5WTRyYzhBVTBlWE5vWXI2THhONGl1RjFTdjdXak5pYlZyYy1JSXFHd01yeEpER3BqeENvMVlQVQ&q=https%3A%2F%2Fdiscord.gg%2FkQ7wzYc8k8</html>
+<h1>YOUTUBE</h1> <a href= "https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqazJ2MWQzRnlrWnFXVlJ2VnROWGY5SVotNEVPQXxBQ3Jtc0traXdHQ09ZbGpIZVZqakJMWXhXZXZFSGtFbG1hQXkxTnJaSENlQnZyMXhUb09Hay1jTk5VcThzVnF5WTRyYzhBVTBlWE5vWXI2THhONGl1RjFTdjdXak5pYlZyYy1JSXFHd01yeEpER3BqeENvMVlQVQ&q=https%3A%2F%2Fdiscord.gg%2FkQ7wzYc8k8"> 
 
 <h1>HUH You fell for it NERD</h1>
 

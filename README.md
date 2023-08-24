@@ -36,15 +36,15 @@
 .
 .
 
-<h1>actually here is the channel      
-                                      
-<a href="Youtube(https://www.youtube.com/@HASTPHM/featured)">
+<h1>actually here is the channel</h1>      
+ <body>Youtube(https://www.youtube.com/@HASTPHM/featured)</body>                                     
+<a href="Youtube(https://www.youtube.com/@HASTPHM/featured)"> 
 
 
 
 
-<h1>Here is the picture of me</h1>
-<img src="![channels4_profile](https://github.com/HASSALT911/HASSALT911.github.io/assets/143049872/d173dd79-77d3-4bd1-a765-7cd07be6ca7c)" align="center"> 
+<p style="color red">YES I AM HASTPHM AND IDC IF U SEE MY FACE NOW ON TIKTOK OVER 2 MILLION VIEWS</p>
+
 
 
 
